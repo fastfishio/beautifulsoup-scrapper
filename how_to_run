@@ -1,0 +1,5 @@
+1) pip3 install -r requirments.txt
+2) download chromedriver (corrisponding one with your chrome driver)
+3) specify chrome driver path (in my case)
+    driver = webdriver.Chrome('/Users/marar/Downloads/chromedriver')
+run :)

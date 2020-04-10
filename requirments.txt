@@ -1,0 +1,4 @@
+selenium
+regex
+beautifulsoup4
+pandas
